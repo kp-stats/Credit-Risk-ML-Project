@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-    <img src="cust_seg.jfif" alt="Logo" width="150" height="150">
+    <img src="cred_risk.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Customer Segmentation</h3>
