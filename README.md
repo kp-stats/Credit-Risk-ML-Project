@@ -35,18 +35,18 @@ This project aims to analyze credit risk using a dataset containing various fina
 <p><h3>Dataset Description</h4>
 The dataset consists of multiple features related to the financial behavior and demographics of individuals.
 <p>Key columns include</p>
-<ul><li>**pct_tl_open_L6M:** Percent of accounts opened in the last 6 months</li>
-<li>pct_tl_closed_L6M : Percent of accounts closed in the last 6 months</li>
-<li>pct_active_tl : Percent of active accounts</li>
-<li> Total_TL_opened_L12M : Total accounts opened in the last 12 months</li>
-<li>Tot_TL_closed_L12M : Total accounts closed in the last 12 months</li>
-<li>Tot_Missed_Pmnt : Total missed payments</li>
-<li>Auto_TL, CC_TL, Consumer_TL, Gold_TL, Home_TL, PL_TL : Counts of different types of loan accounts</li>
-<li>Age_Oldest_TL : Age of the oldest opened account</li>
-<li>max_delinquency_level : Maximum delinquency level</li>
-<li>ARITALSTATUS, EDUCATION, GENDER : Demographic information</li>
-<li>NETMONTHLYINCOME : Net monthly income</li>
-<li>Approved_Flag : Indicator for priority levels</li></ul>
+<ul><li><b>pct_tl_open_L6M:</b>Percent of accounts opened in the last 6 months</li>
+<li><b>pct_tl_closed_L6M :</b> Percent of accounts closed in the last 6 months</li>
+<li><b>pct_active_tl :</b> Percent of active accounts</li>
+<li> <b>Total_TL_opened_L12M :</b> Total accounts opened in the last 12 months</li>
+<li><b>Tot_TL_closed_L12M :</b> Total accounts closed in the last 12 months</li>
+<li><b>Tot_Missed_Pmnt :</b> Total missed payments</li>
+<li><b>Auto_TL, CC_TL, Consumer_TL, Gold_TL, Home_TL, PL_TL :</b> Counts of different types of loan accounts</li>
+<li><b>Age_Oldest_TL :</b> Age of the oldest opened account</li>
+<li><b>max_delinquency_level :</b> Maximum delinquency level</li>
+<li><b>ARITALSTATUS, EDUCATION, GENDER :</b> Demographic information</li>
+<li><b>NETMONTHLYINCOME :</b> Net monthly income</li>
+<li><b>Approved_Flag : </b>Indicator for priority levels</li></ul>
 </p>
 
 ## Methodology
