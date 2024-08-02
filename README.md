@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <h3> Problem Statement</h3> 
- <img src="resources\problem.gif" alt="method" width="300" align="center" height="150">
+<p align="center"> <img src="resources\problem.gif" alt="method" width="300"  height="150"></p>
 <p>
 This project aims to analyze credit risk using a dataset containing various financial and demographic attributes. The analysis includes cleaning, exploring, and modeling data to predict credit risk. The objective is to identify key factors that influence creditworthiness and develop a predictive model for assessing risk levels.</p>
 
@@ -51,7 +51,7 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Methodology
 
-<img src="resources\METHOD.gif" align="center" alt="method" width="300" height="150">
+<p align="center"> <img src="resources\METHOD.gif"  alt="method" width="300" height="150"></p>
 
 <ul>
 <li><b>Data Cleaning:</b> Handling missing values and data inconsistencies.</li>
@@ -64,7 +64,7 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Results
 
-<img src="resources\result.gif" alt="result" align="center" width="300" height="150">
+<p align="center"><img src="resources\result.gif" alt="result" width="300" height="150"></p>
 
 <p>The analysis identifies key factors that contribute to credit risk, such as account activity, delinquency history, and financial behavior. The predictive model helps in assessing the risk levels of individuals, providing a valuable tool for financial institutions. According to the risk appetite of the business, we will make recommendations.</p>
 
