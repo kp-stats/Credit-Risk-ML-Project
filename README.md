@@ -2,6 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
+    ![credit] (https://iconscout.com/lottie-animation/risk-assessment-11344340)
     <img src="cred_risk.png" alt="Logo" width="150" height="150">
   </a>
 
