@@ -29,17 +29,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <h3> Problem Statement</h3> 
-<p>Customer Personality Analysis provides a detailed understanding of a company's ideal customers, helping businesses adjust products to meet the specific needs, behaviors, and concerns of different customer types. By identifying and targeting specific customer segments, businesses can tailor their marketing efforts more effectively, focusing on the groups most likely to buy their products, thereby saving resources and increasing efficiency.</p>
-<h3> Description</h3> 
 <p>
-This project aims to perform Customer Personality Analysis to help businesses understand their customers better. By analyzing customer data, we can identify distinct customer segments based on their purchasing behavior, demographic information, and responses to marketing campaigns. This analysis allows businesses to tailor their products and marketing strategies to meet the specific needs and preferences of different customer segments.</p>
+This project aims to analyze credit risk using a dataset containing various financial and demographic attributes. The analysis includes cleaning, exploring, and modeling data to predict credit risk. The objective is to identify key factors that influence creditworthiness and develop a predictive model for assessing risk levels.</p>
 
-<p><h4>The main objectives of this project are:</h4>
-<ul><li>To segment customers into different groups based on their purchasing behavior and demographic characteristics.</li>
-<li>To analyze the spending patterns and income levels of each customer segment.</li>
-<li>To evaluate the performance of past marketing campaigns and identify the response of different customer segments.</li>
-<li>To develop targeted marketing strategies to improve customer engagement and increase sales.</li>
-<li>The project involves data preprocessing, exploratory data analysis, clustering, and profiling of customers. The insights gained from this analysis can help businesses optimize their marketing efforts and improve customer satisfaction.</li></ul></p>
+<p><h3>Dataset Description</h4>
+The dataset consists of multiple features related to the financial behavior and demographics of individuals. Key columns include:
+- **pct_tl_open_L6M**: Percent of accounts opened in the last 6 months
+- **pct_tl_closed_L6M**: Percent of accounts closed in the last 6 months
+- **pct_active_tl**: Percent of active accounts
+- **Total_TL_opened_L12M**: Total accounts opened in the last 12 months
+- **Tot_TL_closed_L12M**: Total accounts closed in the last 12 months
+- **Tot_Missed_Pmnt**: Total missed payments
+- **Auto_TL, CC_TL, Consumer_TL, Gold_TL, Home_TL, PL_TL**: Counts of different types of loan accounts
+- **Age_Oldest_TL**: Age of the oldest opened account
+- **max_delinquency_level**: Maximum delinquency level
+- **MARITALSTATUS, EDUCATION, GENDER**: Demographic information
+- **NETMONTHLYINCOME**: Net monthly income
+- **Approved_Flag**: Indicator for priority levels
+</p>
 
 ### Dependencies
 * Python 3.11.5
