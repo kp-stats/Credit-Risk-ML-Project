@@ -34,8 +34,8 @@ This project aims to analyze credit risk using a dataset containing various fina
 
 <p><h3>Dataset Description</h4>
 The dataset consists of multiple features related to the financial behavior and demographics of individuals. Key columns include:
-- **pct_tl_open_L6M**: Percent of accounts opened in the last 6 months
-- **pct_tl_closed_L6M**: Percent of accounts closed in the last 6 months
+* pct_tl_open_L6M**: Percent of accounts opened in the last 6 months
+* pct_tl_closed_L6M**: Percent of accounts closed in the last 6 months
 - **pct_active_tl**: Percent of active accounts
 - **Total_TL_opened_L12M**: Total accounts opened in the last 12 months
 - **Tot_TL_closed_L12M**: Total accounts closed in the last 12 months
