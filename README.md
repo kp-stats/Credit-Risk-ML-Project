@@ -33,7 +33,8 @@
 This project aims to analyze credit risk using a dataset containing various financial and demographic attributes. The analysis includes cleaning, exploring, and modeling data to predict credit risk. The objective is to identify key factors that influence creditworthiness and develop a predictive model for assessing risk levels.</p>
 
 <p><h3>Dataset Description</h4>
-The dataset consists of multiple features related to the financial behavior and demographics of individuals. Key columns include:
+The dataset consists of multiple features related to the financial behavior and demographics of individuals.
+<p>Key columns include</p>
 <ul><li>pct_tl_open_L6M: Percent of accounts opened in the last 6 months</li>
 <li>pct_tl_closed_L6M : Percent of accounts closed in the last 6 months</li>
 <li>pct_active_tl : Percent of active accounts</li>
@@ -47,6 +48,18 @@ The dataset consists of multiple features related to the financial behavior and 
 <li>NETMONTHLYINCOME : Net monthly income</li>
 <li>Approved_Flag : Indicator for priority levels</li></ul>
 </p>
+
+## Methodology
+
+<ul>
+<li>Data Cleaning: Handling missing values and data inconsistencies.</li>
+<li>Exploratory Data Analysis (EDA): Visualizing data distributions, relationships, and trends.</li>
+<li>Feature Selection: Selecting and Transforming existing ones for better model performance.</li>
+<li>Building predictive models using machine learning algorithms to classify or score credit risk.</li>
+<li>Hyperparametric Tunning: This process involved systematically adjusting key parameters within the models to identify the best combination for accuracy and efficiency. Techniques such as Grid Search and Random Search were utilized to explore a range of hyperparameter values.</li>
+<li>Cross-validation was implemented to ensure the robustness and generalizability of the models. The optimized parameters helped in enhancing the model's predictive power, reducing overfitting, and improving overall model performance on unseen data.</li>
+<li>Evaluation: Assessing model performance using appropriate metrics.</li></ul>
+
 
 ### Dependencies
 * Python 3.11.5
