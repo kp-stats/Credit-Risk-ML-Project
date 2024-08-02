@@ -34,18 +34,18 @@ This project aims to analyze credit risk using a dataset containing various fina
 
 <p><h3>Dataset Description</h4>
 The dataset consists of multiple features related to the financial behavior and demographics of individuals. Key columns include:
-* pct_tl_open_L6M**: Percent of accounts opened in the last 6 months
-* pct_tl_closed_L6M**: Percent of accounts closed in the last 6 months
-- **pct_active_tl**: Percent of active accounts
-- **Total_TL_opened_L12M**: Total accounts opened in the last 12 months
-- **Tot_TL_closed_L12M**: Total accounts closed in the last 12 months
-- **Tot_Missed_Pmnt**: Total missed payments
-- **Auto_TL, CC_TL, Consumer_TL, Gold_TL, Home_TL, PL_TL**: Counts of different types of loan accounts
-- **Age_Oldest_TL**: Age of the oldest opened account
-- **max_delinquency_level**: Maximum delinquency level
-- **MARITALSTATUS, EDUCATION, GENDER**: Demographic information
-- **NETMONTHLYINCOME**: Net monthly income
-- **Approved_Flag**: Indicator for priority levels
+<ul><li>pct_tl_open_L6M: Percent of accounts opened in the last 6 months</li>
+<li>pct_tl_closed_L6M : Percent of accounts closed in the last 6 months</li>
+<li>pct_active_tl : Percent of active accounts</li>
+<li> Total_TL_opened_L12M : Total accounts opened in the last 12 months</li>
+<li>Tot_TL_closed_L12M : Total accounts closed in the last 12 months</li>
+<li>Tot_Missed_Pmnt : Total missed payments</li>
+<li>Auto_TL, CC_TL, Consumer_TL, Gold_TL, Home_TL, PL_TL : Counts of different types of loan accounts</li>
+<li>Age_Oldest_TL : Age of the oldest opened account</li>
+<li>max_delinquency_level : Maximum delinquency level</li>
+<li>ARITALSTATUS, EDUCATION, GENDER : Demographic information</li>
+<li>NETMONTHLYINCOME : Net monthly income</li>
+<li>Approved_Flag : Indicator for priority levels</li></ul>
 </p>
 
 ### Dependencies
