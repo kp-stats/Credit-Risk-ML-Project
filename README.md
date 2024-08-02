@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <h3> Problem Statement</h3> 
- <img src="resources\problem.gif" alt="method" width="300" height="150">
+ <center><img src="resources\problem.gif" alt="method" width="300" height="150"></center>
 <p>
 This project aims to analyze credit risk using a dataset containing various financial and demographic attributes. The analysis includes cleaning, exploring, and modeling data to predict credit risk. The objective is to identify key factors that influence creditworthiness and develop a predictive model for assessing risk levels.</p>
 
@@ -51,7 +51,7 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Methodology
 
- <img src="resources\METHOD.gif" alt="method" width="300" height="150">
+<center> <img src="resources\METHOD.gif" alt="method" width="300" height="150"></center>
 
 <ul>
 <li><b>Data Cleaning:</b> Handling missing values and data inconsistencies.</li>
