@@ -63,7 +63,7 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Results
 
-<img src="https://i.gifer.com/74pZ.gif" alt="result" width="200",height="150">
+<img src="https://i.gifer.com/74pZ.gif" alt="result" width="300" height="150">
 
 <p>The analysis identifies key factors that contribute to credit risk, such as account activity, delinquency history, and financial behavior. The predictive model helps in assessing the risk levels of individuals, providing a valuable tool for financial institutions. According to the risk appetite of the business, we will make recommendations.</p>
 
