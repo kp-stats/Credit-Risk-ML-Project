@@ -2,7 +2,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-    <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/credit-score-7402961-6030532.mp4" alt="Credit",width="150" height="150">
+    <video width="600" controls>
+        <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/credit-score-7402961-6030532.mp4" type="video/mp4">
+    </video>
   </a>
 
   <h3 align="center">Credit Risk Analysis</h3>
