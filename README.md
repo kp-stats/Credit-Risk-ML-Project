@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-   <img src="https://blog.bankbazaar.com/wp-content/uploads/2014/04/8-Reasons-you-may-be-denied-a-loan-or-credit-card.gif alt="Description of the GIF">
+   <img src="https://www.radian.com/-/media/Radian/Corporate-Responsibility-New/Corporate-Responsibility/Animations/CR/Risk-Management.gif" alt="Description of the GIF">
   </a>
 
   <h3 align="center">Credit Risk Analysis</h3>
