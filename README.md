@@ -50,6 +50,8 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Methodology
 
+ <img src="\METHOD.gif" alt="method" width="300" height="150">
+
 <ul>
 <li><b>Data Cleaning:</b> Handling missing values and data inconsistencies.</li>
 <li><b>Exploratory Data Analysis (EDA):</b> Visualizing data distributions, relationships, and trends.</li>
@@ -60,6 +62,9 @@ The dataset consists of multiple features related to the financial behavior and 
 <li><b>Evaluation:</b> Assessing model performance using appropriate metrics.</li></ul>
 
 ## Results
+
+<img src="https://i.gifer.com/74pZ.gif" alt="result" width="200",height="150">
+
 <p>The analysis identifies key factors that contribute to credit risk, such as account activity, delinquency history, and financial behavior. The predictive model helps in assessing the risk levels of individuals, providing a valuable tool for financial institutions. According to the risk appetite of the business, we will make recommendations.</p>
 
 ### Dependencies
