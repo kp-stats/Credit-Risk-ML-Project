@@ -60,6 +60,8 @@ The dataset consists of multiple features related to the financial behavior and 
 <li><b>Cross-validation</b> was implemented to ensure the robustness and generalizability of the models. The optimized parameters helped in enhancing the model's predictive power, reducing overfitting, and improving overall model performance on unseen data.</li>
 <li><b>Evaluation:</b> Assessing model performance using appropriate metrics.</li></ul>
 
+## Results
+<p>The analysis identifies key factors that contribute to credit risk, such as account activity, delinquency history, and financial behavior. The predictive model helps in assessing the risk levels of individuals, providing a valuable tool for financial institutions. According to the risk appetite of the business, we will make recommendations.</p>
 
 ### Dependencies
 * Python 3.11.5
