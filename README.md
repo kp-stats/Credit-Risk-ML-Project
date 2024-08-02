@@ -52,13 +52,13 @@ The dataset consists of multiple features related to the financial behavior and 
 ## Methodology
 
 <ul>
-<li>Data Cleaning: Handling missing values and data inconsistencies.</li>
-<li>Exploratory Data Analysis (EDA): Visualizing data distributions, relationships, and trends.</li>
-<li>Feature Selection: Selecting and Transforming existing ones for better model performance.</li>
+<li><b>Data Cleaning:</b> Handling missing values and data inconsistencies.</li>
+<li><b>Exploratory Data Analysis (EDA):</b> Visualizing data distributions, relationships, and trends.</li>
+<li><b>Feature Selection:</b> Selecting and Transforming existing ones for better model performance.</li>
 <li>Building predictive models using machine learning algorithms to classify or score credit risk.</li>
-<li>Hyperparametric Tunning: This process involved systematically adjusting key parameters within the models to identify the best combination for accuracy and efficiency. Techniques such as Grid Search and Random Search were utilized to explore a range of hyperparameter values.</li>
-<li>Cross-validation was implemented to ensure the robustness and generalizability of the models. The optimized parameters helped in enhancing the model's predictive power, reducing overfitting, and improving overall model performance on unseen data.</li>
-<li>Evaluation: Assessing model performance using appropriate metrics.</li></ul>
+<li><b>Hyperparametric Tunning:</b> This process involved systematically adjusting key parameters within the models to identify the best combination for accuracy and efficiency. Techniques such as Grid Search and Random Search were utilized to explore a range of hyperparameter values.</li>
+<li><b>Cross-validation</b> was implemented to ensure the robustness and generalizability of the models. The optimized parameters helped in enhancing the model's predictive power, reducing overfitting, and improving overall model performance on unseen data.</li>
+<li><b>Evaluation:</b> Assessing model performance using appropriate metrics.</li></ul>
 
 
 ### Dependencies
