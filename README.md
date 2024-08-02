@@ -1,11 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
+<h1 align="center">CREDIT RISK ANALYSIS</h1>
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
    <img src="https://www.radian.com/-/media/Radian/Corporate-Responsibility-New/Corporate-Responsibility/Animations/CR/Risk-Management.gif" alt="Description of the GIF" width="300" height="150">
   </a>
-
-  <h3 align="center">Credit Risk Analysis</h3>
 
   <p align="center">
     
