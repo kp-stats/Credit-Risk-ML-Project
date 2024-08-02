@@ -2,9 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-    <video width="600" controls>
-        <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/credit-score-7402961-6030532.mp4" type="video/mp4">
-    </video>
+   <img src="https://blog.bankbazaar.com/wp-content/uploads/2014/04/8-Reasons-you-may-be-denied-a-loan-or-credit-card.gif>
   </a>
 
   <h3 align="center">Credit Risk Analysis</h3>
